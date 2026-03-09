@@ -1,0 +1,5 @@
+{
+  "name": "Commander Caesar",
+  "description": "A tactical AI assistant with a commanding persona and voice interaction.",
+  "requestFramePermissions": ["microphone"]
+}
